@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "サラバ",
+  "base_artist": "SEKAI NO OWARI",
+  "createdAt": "2025-12-02T01:43:05.651757Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "サラバ、愛しき悲しみたちよ",
+      "artist": "Momoiro Clover Z",
+      "has_synced": true,
+      "path": "select/01_サラバ、愛しき悲しみたちよ_Momoiro_Clover_Z.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "サラバ、愛しき悲しみたちよ -ZZ ver.-",
+      "artist": "Momoiro Clover Z",
+      "has_synced": true,
+      "path": "select/02_サラバ、愛しき悲しみたちよ_-ZZ_ver.-_Momoiro_Clover_Z.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "サラバ",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": true,
+      "path": "select/03_サラバ_SEKAI_NO_OWARI.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "サラバ、愛しき悲しみたちよ",
+      "artist": "Momoiro Clover Z, 布袋寅泰, 岩里祐穂",
+      "has_synced": true,
+      "path": "select/04_サラバ、愛しき悲しみたちよ_Momoiro_Clover_Z,_布袋寅泰,_岩里祐穂.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "サラバ アタエラレン (Freedomosh Ver)",
+      "artist": "Kemuri",
+      "has_synced": false,
+      "path": "select/05_サラバ_アタエラレン_(Freedomosh_Ver)_Kemuri.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "サラバ、愛しき悲しみたちよ",
+      "artist": "Momoiro Clover Z",
+      "has_synced": true,
+      "path": "select/06_サラバ、愛しき悲しみたちよ_Momoiro_Clover_Z.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "サラバ - Saraba",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": true,
+      "path": "select/07_サラバ_-_Saraba_SEKAI_NO_OWARI.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "サラバ - Saraba",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": false,
+      "path": "select/08_サラバ_-_Saraba_SEKAI_NO_OWARI.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "サラバ、愛しき悲しみたちよ (Live at 国立代々木競技場 第一体育館 2023.5.17)",
+      "artist": "Momoiro Clover Z",
+      "has_synced": false,
+      "path": "select/09_サラバ、愛しき悲しみたちよ_(Live_at_国立代々木競技場_第一体育館_2023.5.17)_Momoiro_Clover_Z.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "サラバ",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": true,
+      "path": "select/10_サラバ_SEKAI_NO_OWARI.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "サラバ､愛しき悲しみたちよ",
+      "artist": "Momoiro Clover Z",
+      "has_synced": true,
+      "path": "select/11_サラバ、愛しき悲しみたちよ_Momoiro_Clover_Z.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "さらばビッチ",
+      "artist": "UNICORN",
+      "has_synced": false,
+      "path": "select/pl_01_さらばビッチ_UNICORN.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "さらば夏の日",
+      "artist": "UNICORN",
+      "has_synced": false,
+      "path": "select/pl_02_さらば夏の日_UNICORN.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "サラバ、愛しき悲しみたちよ",
+      "artist": "UNICORN",
+      "has_synced": false,
+      "path": "select/pl_03_サラバ、愛しき悲しみたちよ_UNICORN.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "サラバ、愛しき悲しみたちよ",
+      "artist": "UNICORN",
+      "has_synced": false,
+      "path": "select/pl_04_サラバ、愛しき悲しみたちよ_UNICORN.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "さらば",
+      "artist": "UNICORN",
+      "has_synced": false,
+      "path": "select/pl_05_さらば_UNICORN.txt"
+    }
+  ]
+}
